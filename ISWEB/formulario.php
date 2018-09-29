@@ -29,5 +29,5 @@ Mensaje: ".$mensaje."
 
 mail($para, $otro, utf8_decode($mensaje_dos));
 //echo "<p><h2>Hemos recibido tu mensaje correctamente, pronto te contaremos, gracias.</h2></p>";
-header("Location: contacto.php");  
+header("Location: contacto.php");
 ?>

@@ -80,13 +80,13 @@ include('include/header.php');
 
 				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 					
-					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 col-lg-offset-4 col-md-offset-4 col-sm-offset-4 wow fadeInLeft" data-wow-offset="0" data-wow-delay="0.2s">
-						<div class="cuadros" style="background-image: url('images/yo.jpg');background-size: cover;background-position: center;background-repeat: no-repeat;">
-							
+					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12  wow fadeInLeft" data-wow-offset="0" data-wow-delay="0.2s">
+						<!--<div class="cuadros" style="width: 959; height: 960px;  background-image: url('images/yo.jpg');background-size: cover;background-position: center;background-repeat: no-repeat;">-->
+						<div class="cuadros" style="width: 200px; height: 200px; border: 0px solid #000; background-color: #fff;">
 						</div>
 						<div class="informacion">
 							<h1>Katya Guadalupe Salas Rodríguez</h1>
-							<h2>Programador Web</h2>
+							<h2>Programadora Web</h2>
 							<ul class="socials-connect">
 			                  <li><a title="" href="http://www.facebook.com/katy10salas" class="page_social"><i class="fa fa-facebook"></i></a></li>
 			                  <li><a class="email" href="mailto:salas-rodriguez@hotmail.com">salas-rodriguez@hotmail.com</a></li>
@@ -94,6 +94,21 @@ include('include/header.php');
 			                </ul>
 						</div>
 					</div>
+					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12  wow fadeInLeft" data-wow-offset="0" data-wow-delay="0.2s">
+						<!--<div class="cuadros" style="width: 959; height: 960px;  background-image: url('images/yo.jpg');background-size: cover;background-position: center;background-repeat: no-repeat;">-->
+						<div class="cuadros" style="width: 200px; height: 200px; border: 0px solid #000; background-color: #fff;">
+						</div>
+						<div class="informacion">
+							<h1>Silvia Elizabeth Kantun Pat</h1>
+							<h2>Diseñadora</h2>
+							<ul class="socials-connect">
+			                  <li><a title="" href="#" class="page_social"><i class="fa fa-facebook"></i></a></li>
+			                  <li><a class="email" href="#">lizzkp.1909@gmail.com</a></li>
+			                  
+			                </ul>
+						</div>
+					</div>
+					
 
 				</div>
 			</div>

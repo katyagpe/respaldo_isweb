@@ -4,7 +4,7 @@ include('include/header.php');
 <section id="contacto">
 	<div class="container">
 		<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-			<div id="gMap"></div>
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3726.141524011924!2d-89.62325458538832!3d20.94683099594676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f56718165513587%3A0xa5162a9eb5bf2f99!2sC.%2050%20653%2C%20Centro%2C%2097000%20M%C3%A9rida%2C%20Yuc.!5e0!3m2!1sen!2smx!4v1632426387289!5m2!1sen!2smx" width="100%" height="300px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 		</div>
 
 		<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 informacion_contacto">

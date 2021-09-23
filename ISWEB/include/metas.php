@@ -33,5 +33,6 @@
 
 <link href="<?=PATH?>css/imagen.css" rel="stylesheet" type="text/css" />
 
+<!--
 <link rel="shortcut icon" href="<?=PATH?>images/favicon.ico" type="image/x-icon">
-<link rel="icon" href="<?=PATH?>images/favicon.ico" type="image/x-icon">
+<link rel="icon" href="<?=PATH?>images/favicon.ico" type="image/x-icon">-->

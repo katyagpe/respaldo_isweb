@@ -5,7 +5,7 @@
   	<link href="https://fonts.googleapis.com/css?family=Dosis" rel="stylesheet">
     <?php include 'include/metas.php'; ?>
 
-    <title>ISWEB</title>
+    <title>SK Strategic Programming</title>
 
 <style type="text/css">
 
@@ -48,7 +48,7 @@ $menu = array("Inicio" => "index.php", "Paquetes" => "paquetes.php", "Contacto" 
 						</button>
 						<div class="navbar-brand hidden-xs">
 							<!--<a href="<?=PATH?>inicio"><img src="<?=PATH?>images/logoweb.png" class="logo"></a>-->
-							<h1 style="font-family: 'Dosis', sans-serif;">Is<b style="color: #E28636; font-family: 'Dosis', sans-serif;">Web</b></h1>
+							<h1 style="font-family: 'Dosis', sans-serif;">SK <b style="color: #E28636; font-family: 'Dosis', sans-serif;">Strategic Programming</b></h1>
 						</div>
 					</div>
 					
@@ -65,9 +65,9 @@ $menu = array("Inicio" => "index.php", "Paquetes" => "paquetes.php", "Contacto" 
 					<div class="navbar-collapse collapse">							
 						<div class="menu">
 							<ul class="nav nav-tabs" role="tablist" id="menu">
-								<li role="presentation"><a href="<?=PATH?>inicio" class="active">Inicio</a></li>
-								<li role="presentation"><a href="<?=PATH?>paquetes">Paquetes</a></li>
-								<li role="presentation"><a href="<?=PATH?>contacto">Contacto</a></li>
+								<li role="presentation"><a href="<?=PATH?>index.php" class="active">Inicio</a></li>
+								<li role="presentation"><a href="<?=PATH?>paquetes.php">Paquetes</a></li>
+								<li role="presentation"><a href="<?=PATH?>contacto.php">Contacto</a></li>
 												
 							</ul>
 						</div>

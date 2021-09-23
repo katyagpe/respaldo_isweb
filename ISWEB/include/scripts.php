@@ -353,7 +353,7 @@ var dragging = true;
                     position: new google.maps.LatLng(20.940043, -89.636287),
                     map: map,
                     icon: iconBase + 'pin_peque.png',
-                    title: 'IS-WEB'
+                    title: 'SK Strategic Programming'
                 });
             }
 </script> 
